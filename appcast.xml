@@ -10,6 +10,30 @@
 
         <description>Updates for GRDC Conv</description>
 
+        <item>
+            <title>GRDC Conv 1.1.0</title>
+
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+
+            <description>
+                <![CDATA[
+                <h2>GRDC Conv 1.1.0</h2>
+                <p>Improvements and bug fixes.</p>
+                ]]>
+            </description>
+
+            <pubDate>Fri, 11 Sep 2026 17:40:00 +0200</pubDate>
+
+            <enclosure
+                url="TUTAJ_WKLEIMY_LINK_DO_ZIP"
+                length="66710859"
+                type="application/octet-stream"
+                sparkle:edSignature="0kQsZClQgS+uJRdGPtt51k9pAA/r8Jbb7rLWbcF8pdzusnD17AHDZx/UemXFYGk4G4O/TyC7dVvk55Nx2TP6Cg=="
+            />
+
+        </item>
+
     </channel>
 
 </rss>
