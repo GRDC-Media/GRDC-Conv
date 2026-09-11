@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
-    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
 
     <channel>
 
@@ -9,6 +9,37 @@
         <link>https://github.com/GRDC-Media/GRDC-Conv</link>
 
         <description>Updates for GRDC Conv</description>
+
+
+        <item>
+
+            <title>GRDC Conv 1.2.0</title>
+
+            <sparkle:version>3</sparkle:version>
+
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+
+            <description>
+                <![CDATA[
+                <h2>What's new in GRDC Conv 1.2.0</h2>
+                <ul>
+                    <li>Added English language support</li>
+                    <li>Minor improvements and fixes</li>
+                </ul>
+                ]]>
+            </description>
+
+            <pubDate>Fri, 11 Sep 2026 18:00:00 +0200</pubDate>
+
+            <enclosure
+                url="https://github.com/GRDC-Media/GRDC-Conv/releases/download/v1.2.0/GRDC-Conv-1.2.0.zip"
+                length="66720857"
+                type="application/octet-stream"
+                sparkle:edSignature="SYZcnZZfk84i0G3bIjoV5jbTvXYNFRSwKpY+ps61r+d84Sj1mkiiwKa+yW/t0DT44bRuFfSSnJeXwAPeT0VEAg=="
+            />
+
+        </item>
+
 
         <item>
 
@@ -37,5 +68,4 @@
         </item>
 
     </channel>
-
 </rss>
